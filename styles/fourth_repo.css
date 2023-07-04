@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+.header{
+    height: 50px;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+    background-color:blanchedalmond;
+}
+.container{
+    margin: 20px;
+    padding: 15px;
+}
+.pera1{
+    background-color: azure;
+    padding: 5px;
+    margin: 5px;
+    border: 7px solid darkgray;
+    border-radius: 4px;
+}
+.pera2{
+    background-color:aquamarine;
+    padding: 5px;
+    margin: 5px;
+    border: 7px solid darkgrey;
+    border-radius: 4px;
+}
+.pera3{
+    background-color:darkcyan;
+    padding: 5px;
+    margin: 5px;
+    border: 7px solid darkgrey;
+    border-radius: 4px;
+}
+footer{
+    height: 10px;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+    background-color:darkgrey;
+}
